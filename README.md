@@ -33,4 +33,5 @@ Dry Bean Dataset from UCI Machine Learning Repository :
 |        9 |            0.92 | linear        |      2.01 |           1.21 |
 
 * Learning curve
+
 ![Learning curve](static/learning_curve.png)
